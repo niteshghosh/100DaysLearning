@@ -15,12 +15,6 @@ Quick links for learning:-
 
 - https://online.visual-paradigm.com/drive/#diagramlist:proj=0&new=AWSDiagram
 - https://kubernetes.io/
-- https://www.kodekloud.com/courses
-- https://www.kodekloud.com/courses/git-for-beginners/lectures/23153830
-- https://github.com/niteshghosh/chef-repo/contribute
-- https://www.youtube.com/results?search_query=Wily+Alerting+tutorial+for+beginners
-- https://www.youtube.com/watch?v=8AAcpUBtOG4&list=PL5nViEmyYI0bmfcM_s4P-dfzKrOpcFWWK
-- https://www.youtube.com/watch?v=LC-KPdkVZ4I&list=PL9ooVrP1hQOE5SXbik4_EVVjpx9qG3CBb
 - https://kubernetes.io/docs/tasks/debug-application-cluster/get-shell-running-container/
 - https://www.jenkins.io/download/
 - https://www.jenkins.io/doc/book/system-administration/viewing-logs/
