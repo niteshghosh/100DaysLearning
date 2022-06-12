@@ -10,7 +10,6 @@ Quick Reference
 
 - https://github.com/MichaelDurkan/100DaysOfCloud
 - https://github.com/MichaelCade/90DaysOfDevOps
-- https://github.com/prateek041/DevOps-90days
 
 Quick links for learning:-
 
