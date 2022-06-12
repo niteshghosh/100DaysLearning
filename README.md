@@ -1,2 +1,6 @@
 # 100DaysLearning
-Practicing 100 days of DevOps practice
+
+Certification:
+	AWS Certified Cloud Practitioner
+	AWS Certified Solutions Architect –Associate
+	AWS Certified Developer – Associate
