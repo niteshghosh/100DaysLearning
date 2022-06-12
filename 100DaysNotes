@@ -5,3 +5,7 @@ Days 1 Activities:-
  3. Visual studio installation and clone to github repo created.
  4. Do some github operation just to make sure you explored command and option in VS code.
  5. Enable some extenstion which will be useful for learning journey.
+
+Set git for local operation from below command
+ git config — global user.name "Nitesh Ghosh"
+ git config — global user.email "nitesh.ghosh38@gmail.com"
