@@ -1,13 +1,4 @@
-Course Credits
-Nana Janashia - https://www.youtube.com/c/TechWorldwithNana/playlists
-Sandip Das -    https://www.youtube.com/c/SandipDas-official/playlists
-Alok Kumar -    https://www.youtube.com/c/AlokKumar-CloudKeFunde/playlists
-
-Reference
-https://github.com/MichaelDurkan
-https://michaeldurkan.com/
-
-Days 1 Activities:-
+Days 1 Activities
 ------------------------------------------------------------------------------------------
 GitHub account setup repo creation
 Git configure in local machine.
@@ -21,6 +12,6 @@ git config — global user.email "nitesh.ghosh38@gmail.com"
 Git - Interview questions and answers collections
  
 CI/CD Tools explored:
- Jenkins
- Gitlab CI
- github Action
+Jenkins
+Gitlab CI
+github Action
