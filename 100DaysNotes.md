@@ -5,7 +5,6 @@ Days 1 Activities
 - Visual studio installation and clone to github repo created.
 - Do some github operation just to make sure you explored command and option in VS code.
 - Enable some extenstion which will be useful for learning journey.
-
 - Git Course by Adam (Youtube)
 
 Udemy Course:
