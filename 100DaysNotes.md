@@ -6,6 +6,8 @@ Days 1 Activities
 - Do some github operation just to make sure you explored command and option in VS code.
 - Enable some extenstion which will be useful for learning journey.
 
+- Git Course by Adam (Youtube)
+
 Udemy Course:
 - GitLab CI: Pipelines, CI/CD and DevOps for Beginners
 - The Complete GitHub Actions & Workflows Guide
