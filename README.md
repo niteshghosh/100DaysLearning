@@ -29,6 +29,3 @@ Quick links for learning:-
 - https://kodekloud.com/p/certified-kubernetes-administrator-with-practice-tests
 - https://github.com/kubernetes/minikube/releases
 - https://www.youtube.com/watch?v=bEFILWrRJJ4
-- https://www.kubernetesbyexample.com/
-- https://github.com/kelseyhightower/kubernetes-the-hard-way
-- https://kubernetes.io/docs/reference/kubectl/cheatsheet/
