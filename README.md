@@ -1,9 +1,11 @@
 # 100DaysLearning
 
 Course Credits
-Nana Janashia - https://www.youtube.com/c/TechWorldwithNana/playlists
-Sandip Das    - https://www.youtube.com/c/SandipDas-official/playlists
-Alok Kumar    - https://www.youtube.com/c/AlokKumar-CloudKeFunde/playlists
+- Nana Janashia - https://www.youtube.com/c/TechWorldwithNana/playlists
+
+- Sandip Das    - https://www.youtube.com/c/SandipDas-official/playlists
+
+- Alok Kumar    - https://www.youtube.com/c/AlokKumar-CloudKeFunde/playlists
 
 Reference
 https://github.com/MichaelDurkan
