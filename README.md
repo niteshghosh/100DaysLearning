@@ -7,6 +7,8 @@ Course Credits
 
 - Alok Kumar    - https://www.youtube.com/c/AlokKumar-CloudKeFunde/playlists
 
+- Wezva         - https://www.youtube.com/c/DevOpsLearnEasy/playlists
+
 Quick Reference
 
 - https://github.com/MichaelDurkan
