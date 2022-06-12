@@ -40,3 +40,15 @@ Quick links for learning:-
 - https://www.jenkins.io/doc/book/system-administration/viewing-logs/
 - https://cloudacademy.com/library/containers/courses/
 - https://www.jenkins.io/doc/book/system-administration/reverse-proxy-configuration-troubleshooting/
+- https://github.com/kodekloudhub/certified-kubernetes-administrator-course
+- https://www.cncf.io/certification/cka/
+- https://github.com/cncf/curriculum
+- https://docs.linuxfoundation.org/tc-docs/certification/lf-candidate-handbook
+- https://docs.linuxfoundation.org/tc-docs/certification/tips-cka-and-ckad
+- https://kodekloud.com/p/kubernetes-certification-course
+- https://kodekloud.com/p/certified-kubernetes-administrator-with-practice-tests
+- https://github.com/kubernetes/minikube/releases
+- https://www.youtube.com/watch?v=bEFILWrRJJ4
+- https://www.kubernetesbyexample.com/
+- https://github.com/kelseyhightower/kubernetes-the-hard-way
+- https://kubernetes.io/docs/reference/kubectl/cheatsheet/
