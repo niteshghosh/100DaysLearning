@@ -2,17 +2,15 @@
 
 Course Credits
 - Nana Janashia - https://www.youtube.com/c/TechWorldwithNana/playlists
-
 - Sandip Das    - https://www.youtube.com/c/SandipDas-official/playlists
-
 - Alok Kumar    - https://www.youtube.com/c/AlokKumar-CloudKeFunde/playlists
-
 - Wezva         - https://www.youtube.com/c/DevOpsLearnEasy/playlists
 
 Quick Reference
 
-- https://github.com/MichaelDurkan
-- https://michaeldurkan.com/
+- https://github.com/MichaelDurkan/100DaysOfCloud
+- https://github.com/MichaelCade/90DaysOfDevOps
+- https://github.com/prateek041/DevOps-90days
 
 Quick links for learning:-
 
