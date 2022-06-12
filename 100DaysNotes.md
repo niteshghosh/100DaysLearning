@@ -1,13 +1,13 @@
-Days 1 Activities
+Days 0 Notes
 ------------------------------------------------------------------------------------------
 - GitHub account setup repo creation
 - Git configure in local machine.
 - Visual studio installation and clone to github repo created.
 - Do some github operation just to make sure you explored command and option in VS code.
-- Enable some extenstion which will be useful for learning journey.
-- Git Course by Adam (Youtube)
+- Enable some extenstion in VS code which will be useful for learning journey.
+- Explored some of blog which will be helpful throghout journey and will keep updated notes.
 
-Udemy Course:
+Below are the courses which was explored and udemy review sugegsted it will be helpful in learning
 - GitLab CI: Pipelines, CI/CD and DevOps for Beginners
 - https://www.udemy.com/course/gitlab-ci-pipelines-ci-cd-and-devops-for-beginners/?src=sac&kw=GitLab+CI%3A+Pipelines%2C+CI%2FCD+and+DevOps+for+Beginners
 - The Complete GitHub Actions & Workflows Guide
