@@ -14,18 +14,7 @@ Quick Reference
 Quick links for learning:-
 
 - https://online.visual-paradigm.com/drive/#diagramlist:proj=0&new=AWSDiagram
-- https://kodekloud.com/courses/1120660/lectures/24008572
-- https://kodekloud.com/courses/1120660/lectures/24008572
-- https://github.com/mmumshad/kubernetes-training-answers
-- https://kubernetes.io/docs/concepts/workloads/pods/
-- https://kubernetes.io/docs/concepts/
-- https://minikube.sigs.k8s.io/docs/start/
-- https://github.com/kubernetes/minikube/releases
-- https://kubernetes.io/docs/tasks/tools/install-kubectl-windows/
-- https://www.udemy.com/courses/search/?q=jenkins&src=sac&kw=Jenki
-- https://www.udemy.com/course/learn-ansible/
-- https://www.whizlabs.com/learn/course/aws-csaa-practice-tests
-- https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/setup-ha-etcd-with-kubeadm/#what-s-next
+- https://kubernetes.io/
 - https://www.kodekloud.com/courses
 - https://www.kodekloud.com/courses/git-for-beginners/lectures/23153830
 - https://github.com/niteshghosh/chef-repo/contribute
