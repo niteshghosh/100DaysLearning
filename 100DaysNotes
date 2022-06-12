@@ -14,3 +14,10 @@ Days 1 Activities:-
 Set git for local operation from below command
  git config — global user.name "Nitesh Ghosh"
  git config — global user.email "nitesh.ghosh38@gmail.com"
+
+Git Basics - Interview questions and answers collections
+ 
+CI/CD Tools explored:
+ Jenkins
+ Gitlab CI
+ github Action
