@@ -8,7 +8,7 @@ Days 0 Notes
 - Explored some of blog which will be helpful throghout journey and will keep updated notes.
 
 Below are the courses which was explored and udemy review sugegsted it will be helpful in learning
-- [GitLab CI: Pipelines, CI/CD and DevOps for Beginners]
+- [GitLab CI: Pipelines, CI/CD and DevOps for Beginners](https://www.udemy.com/course/gitlab-ci-pipelines-ci-cd-and-devops-for-beginners/?src=sac&kw=GitLab+CI%3A+Pipelines%2C+CI%2FCD+and+DevOps+for+Beginners)
 - [The Complete GitHub Actions & Workflows Guide]
 - [Learn DevOps: CI/CD with Jenkins using Pipelines and Docker]
 - [Continuous integration with Jenkins]
