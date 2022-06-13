@@ -13,6 +13,10 @@ I wanted to thanks some of the resource, I have got while navigating web pages, 
 
 DevOps is a set of practices that help to reach the goal of this movement: reducing the time between the ideation phase of a product and its release in production to the end-user or whomever it could be an internal or external.
 
+DevOps is Not a
+
+- tool, Programming language, software
+
 DevOps and Agile are widely adopted together to achieve continuous delivery of your Application.
 
 From a DevOps perspective, Development, Testing and Deployment all land with the DevOps team.
