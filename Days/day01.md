@@ -7,7 +7,7 @@ I started this journey while reading blogs on LinkedIn and this inspired to take
 
 I wanted to thanks some of the resource, I have got while navigating web pages, I think it will help me to understand tool in better way.
 
-## What is DevOps?
+## Big Question - What is DevOps?
 DevOps is a set of practices that help to reach the goal of this movement: reducing the time between the ideation phase of a product and its release in production to the end-user or whomever it could be an internal team or customer. 
 
 DevOps and Agile are widely adopted together to achieve continuous delivery of your Application.
