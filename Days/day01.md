@@ -1,5 +1,5 @@
 ---
-title: '[#100DaysLearning](https://www.linkedin.com/feed/hashtag/100daysoflearning/) - Introduction - Day 1'
+title: '#100DaysLearning - Introduction - Day 1'
 ---
 
 ## Introduction - Day 1
