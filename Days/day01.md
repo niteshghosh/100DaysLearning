@@ -4,7 +4,7 @@ topic: 'What is DevOps'
 ---
 
 ## Introduction - Day 1
-I started this journey while reading blogs on LinkedIn and this inspired to take a challanage, DevOps is hot topic in current market where DevOps practice differ in each organization, throughout my journey to #100daysoflearning I wanted to explore tools and technologies which is in demand in all organization at moment.
+I started this journey while reading blogs on LinkedIn and this inspired to take a challanage, DevOps is hot topic in current IT market where DevOps practice differ in each organization, throughout my journey to #100daysoflearning I wanted to explore tools and technologies which is in demand in all organization at moment.
 
 I wanted to thanks some of the resource, I have got while navigating web pages, I think it will help me to understand tool in better way.
 
