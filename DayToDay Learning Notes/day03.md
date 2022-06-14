@@ -1,5 +1,5 @@
 ---
-`#100daysoflearning - Study - Day 3`
+`#100daysoflearning - Linux - Day 3`
 `Linux Basics & Interview Preparation `
 ---
 
