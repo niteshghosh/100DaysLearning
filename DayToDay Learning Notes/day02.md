@@ -1,6 +1,6 @@
 ---
-title: '#100daysoflearning - Study - Day 2'
-topic: 'Networking Basics'
+`#100daysoflearning - Study - Day 2`
+`Networking Basics`
 ---
 
 ## Resources
