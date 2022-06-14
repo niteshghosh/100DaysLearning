@@ -1,7 +1,5 @@
----
-`title`: '#100daysoflearning - Environment Setup - Day 0'
-`topic`: 'Environment Setup & Quick look around resources'
----
+`'#100daysoflearning - Environment Setup - Day 0`
+`Environment Setup & Quick look around resources`
 
 ## Environment setup and Quick look
 
