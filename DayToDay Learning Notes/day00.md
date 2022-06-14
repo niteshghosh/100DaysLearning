@@ -1,5 +1,5 @@
 ---
-`'#100daysoflearning - Environment Setup - Day 0`
+`#100daysoflearning - Environment Setup - Day 0`
 `Environment Setup & Quick look around resources`
 ---
 
