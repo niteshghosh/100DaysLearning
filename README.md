@@ -2,11 +2,15 @@
 
 Learning Credits:-
 
-- Nana Janashia   - <https://www.youtube.com/c/TechWorldwithNana/playlists>
+| Channel Details | YouTube Link |
+| --- | --- |
+| `TechnicalGuftgu` | <https://www.youtube.com/c/TechnicalGuftgu> |
+| `Nana Janashia` | <https://www.youtube.com/c/TechWorldwithNana/playlists> |
+
 - Sandip Das      - <https://www.youtube.com/c/SandipDas-official/playlists>
 - Alok Kumar      - <https://www.youtube.com/c/AlokKumar-CloudKeFunde/playlists>
 - Wezva           - <https://www.youtube.com/c/DevOpsLearnEasy/playlists>
-- TechnicalGuftgu - <https://www.youtube.com/c/TechnicalGuftgu>
+
 
 Quick Reference to inspired:-
 
