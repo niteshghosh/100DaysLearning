@@ -1,6 +1,6 @@
 ## 100DaysofLearning - Learning is always fun
 
-# Learning Credits:-
+## Learning Credits:-
 
 | Channel Details | YouTube Link |
 | --- | --- |
@@ -10,12 +10,12 @@
 | `Alok Kumar` | <https://www.youtube.com/c/AlokKumar-CloudKeFunde/playlists> |
 | `Wezva` | <https://www.youtube.com/c/DevOpsLearnEasy/playlists> |
 
-# Quick Reference to inspired:-
+## Quick Reference to inspired:-
 
 - <https://github.com/MichaelDurkan/100DaysOfCloud>
 - <https://github.com/MichaelCade/90DaysOfDevOps>
 
-# Quick links:-
+## Blog links:-
 
 - <https://online.visual-paradigm.com/drive/#diagramlist:proj=0&new=AWSDiagram>
 - <https://kubernetes.io/>
