@@ -19,3 +19,4 @@ Quick links for learning:-
 - <https://kubernetes.io/>
 - <https://kubernetes.io/docs/tasks/debug-application-cluster/get-shell-running-container/>
 - <https://www.youtube.com/watch?v=bEFILWrRJJ4>
+- <https://www.youtube.com/watch?v=Z_bbozP6ZW4>
