@@ -1,5 +1,5 @@
 ---
-title: '#100daysoflearning - Setup - Day 0'
+title: '#100daysoflearning - Environment Setup - Day 0'
 topic: 'Environment Setup and quick look'
 ---
 
@@ -15,6 +15,7 @@ topic: 'Environment Setup and quick look'
 ## Resources
 
 - [What are the Pre-requisite for Devops](https://www.youtube.com/watch?v=eX3ZimWWHh4&list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10&index=2)
+- [DevOps Prerequisites Course - Getting started with DevOps](https://www.youtube.com/watch?v=Wvf0mBNGjXY)
 
 ## Navigate
 

@@ -23,13 +23,15 @@ From a DevOps perspective, Development, Testing and Deployment all land with the
 
 - [So you want to learn DevOps?](https://blog.kasten.io/devops-learning-curve)
 - [DevOps Roadmap](https://roadmap.sh/devops)
-
+- [DevOps Roadmap 2022 - How to become a DevOps Engineer? What is DevOps?](https://www.youtube.com/watch?v=9pZ2xmsSDdo)
+- [DevOps Career Roadmap - Part 1](https://www.youtube.com/watch?v=KrVezx3E8OQ)
+- [How to become a DevOps Engineer - DevOps Roadmap](https://www.youtube.com/watch?v=5pxbp6FyTfk)
 ## Resources
 
 - [DevOps in 5 Minutes](https://www.youtube.com/watch?v=Xrgk023l4lI)
 - [What is Devops,DevOps Stages,Agile](https://www.youtube.com/watch?v=5VVSh1wKOX8&list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10&index=3)
 - [What is DevOps? REALLY understand it | DevOps vs SRE](https://www.youtube.com/watch?v=0yWAtQ6wYNM&list=PLy7NrYWoggjwV7qC4kmgbgtFBsqkrsefG&index=1)
-
+- [Devops Interview Questions](https://www.youtube.com/watch?v=WxjJlYFIWtI)
 ## Navigate
 
 - [Day 2](day02.md)
