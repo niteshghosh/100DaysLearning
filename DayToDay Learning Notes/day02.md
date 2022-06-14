@@ -1,5 +1,5 @@
 ---
-title: '#100daysoflearning - Study - Day 1'
+title: '#100daysoflearning - Study - Day 2'
 topic: 'Networking Basics'
 ---
 
