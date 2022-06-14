@@ -1,5 +1,5 @@
 ---
-`#100daysoflearning - Study - Day 2`
+`#100daysoflearning - Networking - Day 2`
 `Networking Basics`
 ---
 
