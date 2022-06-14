@@ -1,4 +1,4 @@
-# 100DaysLearning
+## 100DaysLearning - Learning is fun
 
 Learning Credits:-
 
@@ -8,12 +8,12 @@ Learning Credits:-
 - Wezva           - <https://www.youtube.com/c/DevOpsLearnEasy/playlists>
 - TechnicalGuftgu - <https://www.youtube.com/c/TechnicalGuftgu>
 
-Quick Reference:-
+Quick Reference to inspired:-
 
 - <https://github.com/MichaelDurkan/100DaysOfCloud>
 - <https://github.com/MichaelCade/90DaysOfDevOps>
 
-Quick links for learning:-
+Quick links:-
 
 - <https://online.visual-paradigm.com/drive/#diagramlist:proj=0&new=AWSDiagram>
 - <https://kubernetes.io/>
