@@ -32,6 +32,7 @@ From a DevOps perspective, Development, Testing and Deployment all land with the
 - [What is Devops,DevOps Stages,Agile](https://www.youtube.com/watch?v=5VVSh1wKOX8&list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10&index=3)
 - [What is DevOps? REALLY understand it | DevOps vs SRE](https://www.youtube.com/watch?v=0yWAtQ6wYNM&list=PLy7NrYWoggjwV7qC4kmgbgtFBsqkrsefG&index=1)
 - [Devops Interview Questions](https://www.youtube.com/watch?v=WxjJlYFIWtI)
+- https://www.youtube.com/watch?v=l8TdjDDmRvk&list=PL55uMtDpag8qCfD2JaUcNMMgzSioVQdHL
 ## Navigate
 
 - [Day 2](day02.md)
