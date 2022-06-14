@@ -1,4 +1,4 @@
-## 100DaysLearning - Learning is fun
+## 100DaysofLearning - Learning is always fun
 
 Learning Credits:-
 
